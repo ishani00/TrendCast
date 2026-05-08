@@ -1,0 +1,11 @@
+bertopic_topic_id,bertopic_name,top_keywords,document_count,mean_probability,dominant_source,dominant_topic_label,topic_model_method
+0,0_ai_music_voice_video,"ai, music, voice, video, art, model, generated, real",36,0.5740784475065109,Reddit,AI music,BERTopic
+1,1_single_new_mental_health,"single, new, mental, health, report, mental health, high, help",32,0.6922413099463058,NewsAPI,Mindfulness,BERTopic
+2,2_like_just_don_feel,"like, just, don, feel, know, life, people, time",24,0.6682234565716373,Reddit,Mindfulness,BERTopic
+3,3_fashion_sustainable_indian_brands,"fashion, sustainable, indian, brands, leather, india, cultural, shopping",18,0.7491885601055004,Spotify,Sustainable fashion,BERTopic
+4,4_oklahoma_crypto_plunging_copies,"oklahoma, crypto, plunging, copies, shooting, cliff, oklahoma park, hotels",16,0.814262692682082,NewsAPI,swimming,BERTopic
+5,5_running_yall_stylish_stella mccartney,"running, yall, stylish, stella mccartney, stella, adidas, finally, expecting",13,0.868534556104657,Spotify,running,BERTopic
+6,6_swimming_pools_swimming pools_pools drank,"swimming, pools, swimming pools, pools drank, drank, lamar, kendrick lamar, kendrick",12,0.9562559801934444,Spotify,swimming,BERTopic
+7,7_cycling_hydrogen_chem_mxene,"cycling, hydrogen, chem, mxene, mater chem, mater, ta, garmin",12,0.9676101007720672,Spotify,cycling,BERTopic
+8,8_digital art_digital_art_art oc,"digital art, digital, art, art oc, oc, improve, make, know",12,0.9684746523760243,Reddit,Digital art,BERTopic
+9,9_theon_release_love_minnie riperton,"theon, release, love, minnie riperton, minnie, riperton, music, death",11,0.9516584110110687,NewsAPI,Mindfulness,BERTopic

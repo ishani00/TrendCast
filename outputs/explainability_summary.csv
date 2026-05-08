@@ -1,0 +1,8 @@
+topic,top_driver_1,top_driver_2,top_driver_3,risk_flags,explanation
+Digital art,visual_energy_norm,forecast_growth_score,audio_energy_norm,none,"Digital art ranks with strong support from visual energy norm, forecast growth score, audio energy norm. Its fused score is 0.63, with forecast confidence at 0.79."
+running,novelty_score_norm,forecast_growth_score,trend_score,none,"running ranks with strong support from novelty score norm, forecast growth score, trend score. Its fused score is 0.57, with forecast confidence at 0.76."
+AI music,audio_energy_norm,forecast_growth_score,trend_score,none,"AI music ranks with strong support from audio energy norm, forecast growth score, trend score. Its fused score is 0.54, with forecast confidence at 0.80."
+Sustainable fashion,forecast_growth_score,trend_score,visual_energy_norm,none,"Sustainable fashion ranks with strong support from forecast growth score, trend score, visual energy norm. Its fused score is 0.43, with forecast confidence at 0.80."
+cycling,forecast_growth_score,trend_score,audio_energy_norm,none,"cycling ranks with strong support from forecast growth score, trend score, audio energy norm. Its fused score is 0.43, with forecast confidence at 0.83."
+swimming,forecast_growth_score,trend_score,audio_energy_norm,none,"swimming ranks with strong support from forecast growth score, trend score, audio energy norm. Its fused score is 0.38, with forecast confidence at 0.80."
+Mindfulness,network_centrality_norm,forecast_growth_score,trend_score,none,"Mindfulness ranks with strong support from network centrality norm, forecast growth score, trend score. Its fused score is 0.37, with forecast confidence at 0.79."

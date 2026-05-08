@@ -1,0 +1,21 @@
+topic,scenario,impact_score,adjusted_multimodal_score
+AI music,AI Regulation Crackdown,-0.459220301066426,0.6883015308926925
+AI music,Climate Activism Surge,0.2562592196803071,0.8671714110793759
+AI music,Creator Economy Boom,0.47021662293137945,0.920660761892144
+AI music,Mental Health Priority Shift,0.0921830985915493,0.8261523808071864
+AI music,Recession Shock,-0.11878604499441701,0.7734100949106948
+Digital art,AI Regulation Crackdown,-0.53,0.6015167095897807
+Digital art,Climate Activism Surge,0.18870967741935485,0.7811941289446194
+Digital art,Creator Economy Boom,0.5022580645161291,0.8595812257188129
+Digital art,Mental Health Priority Shift,0.0603225806451613,0.749097354751071
+Digital art,Recession Shock,-0.17967741935483872,0.6890973547510709
+Sustainable fashion,AI Regulation Crackdown,-0.3663910824134846,0.33565298484273287
+Sustainable fashion,Climate Activism Surge,0.3642286387866835,0.5183079151427749
+Sustainable fashion,Creator Economy Boom,0.45809620673983864,0.5417748071310637
+Sustainable fashion,Mental Health Priority Shift,0.145,0.46350075544610403
+Sustainable fashion,Recession Shock,-0.04012394424003361,0.4172197693860956
+Mindfulness,AI Regulation Crackdown,0.15000000000000002,0.32186738674889126
+Mindfulness,Climate Activism Surge,0.30746478873239436,0.3612335839319898
+Mindfulness,Creator Economy Boom,-0.021830985915492956,0.27890964027001797
+Mindfulness,Mental Health Priority Shift,0.4152112676056338,0.3881702036502997
+Mindfulness,Recession Shock,0.23521126760563382,0.3431702036502997

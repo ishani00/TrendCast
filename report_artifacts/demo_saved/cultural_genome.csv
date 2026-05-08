@@ -1,0 +1,5 @@
+topic,innovation_score,tradition_score,wellness_score,community_score,expression_score,genome_signature
+AI music,0.9209590414934661,0.35211267605633806,0.0,0.44014084507042256,1.0,Expression + Innovation
+Digital art,1.0,0.0,0.0,0.40322580645161293,1.0,Innovation + Expression
+Mindfulness,0.0,1.0,1.0,0.35211267605633806,0.0,Tradition + Wellness
+Sustainable fashion,0.7453570894591597,0.49019607843137253,0.0,0.8578431372549019,1.0,Expression + Community

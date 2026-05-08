@@ -1,0 +1,6 @@
+source_topic,target_topic,weight
+AI music,Mindfulness,0.12308883775969251
+AI music,Digital art,0.1154301720305102
+Digital art,Mindfulness,0.11135694040290409
+Mindfulness,Sustainable fashion,0.12386246294794806
+AI music,Sustainable fashion,0.10544432609672942

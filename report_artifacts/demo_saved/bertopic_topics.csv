@@ -1,0 +1,9 @@
+bertopic_topic_id,bertopic_name,top_keywords,document_count,mean_probability,dominant_source,dominant_topic_label,topic_model_method
+0,0_fashion_sustainable_sustainable fashion_fashion discussed,"fashion, sustainable, sustainable fashion, fashion discussed, fashion signal, represents sustainable, online sustainable, item represents",40,0.6469924357661563,NewsAPI,Sustainable fashion,BERTopic
+1,1_mindfulness_mindfulness discussed_mindfulness signal_represents mindfulness,"mindfulness, mindfulness discussed, mindfulness signal, represents mindfulness, online mindfulness, item represents, item, represents",32,0.8905174276439236,NewsAPI,Mindfulness,BERTopic
+2,2_ai music_music_ai_music tools,"ai music, music, ai, music tools, tools, signal exciting, tools sample, breakthrough",20,0.8818834214949046,NewsAPI,AI music,BERTopic
+3,3_ai music_music_future_sound,"ai music, music, future, sound, sound design, generative sound, generative, future generative",20,0.8814936553116798,NewsAPI,AI music,BERTopic
+4,4_human vocals_human_release blends_machine composition,"human vocals, human, release blends, machine composition, machine, vocals, release, new release",16,0.9120220354204404,NewsAPI,AI music,BERTopic
+5,5_digital art_art_digital_creators sample,"digital art, art, digital, creators sample, creators, vibrant digital, signal vibrant, vibrant",16,0.8701330641870584,NewsAPI,Digital art,BERTopic
+6,6_art_digital art_coding ai_grows,"art, digital art, coding ai, grows, signal debate, ai art, debate grows, creative coding",16,0.9372032545720845,NewsAPI,Digital art,BERTopic
+7,7_digital_digital art_experiment immersive_immersive digital,"digital, digital art, experiment immersive, immersive digital, immersive, visual artists, experiment, signal visual",16,0.9102387385086932,NewsAPI,Digital art,BERTopic

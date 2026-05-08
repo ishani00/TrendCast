@@ -1,0 +1,5 @@
+source,status,record_count,note
+NewsAPI,loaded,132,NewsAPI articles collected.
+Spotify,loaded,70,"Spotify tracks collected, but audio-features access was unavailable."
+Reddit,loaded,81,Reddit posts collected from 33 successful queries.
+X,skipped,0,Neither X_BEARER_TOKEN nor X_POSTS_CSV was provided.

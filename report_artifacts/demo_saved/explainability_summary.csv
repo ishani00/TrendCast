@@ -1,0 +1,5 @@
+topic,top_driver_1,top_driver_2,top_driver_3,risk_flags,explanation
+AI music,novelty_score_norm,audio_energy_norm,network_centrality_norm,none,"AI music ranks with strong support from novelty score norm, audio energy norm, network centrality norm. Its fused score is 0.80, with forecast confidence at 0.91."
+Digital art,visual_energy_norm,trend_score,novelty_score_norm,none,"Digital art ranks with strong support from visual energy norm, trend score, novelty score norm. Its fused score is 0.73, with forecast confidence at 0.93."
+Sustainable fashion,trend_score,forecast_growth_score,audio_energy_norm,none,"Sustainable fashion ranks with strong support from trend score, forecast growth score, audio energy norm. Its fused score is 0.43, with forecast confidence at 0.91."
+Mindfulness,trend_score,network_centrality_norm,forecast_growth_score,none,"Mindfulness ranks with strong support from trend score, network centrality norm, forecast growth score. Its fused score is 0.28, with forecast confidence at 0.93."

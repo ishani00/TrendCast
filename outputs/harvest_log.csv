@@ -1,0 +1,6 @@
+iteration,captured_at_utc,mode,top_topic,topic_model_method
+1,2026-04-28T07:10:13.872948+00:00,demo,AI music,
+1,2026-04-28T23:29:39.195135+00:00,demo,AI music,BERTopic
+1,2026-04-28T23:42:19.162441+00:00,demo,AI music,BERTopic
+1,2026-04-28T23:44:22.757805+00:00,live,Digital art,BERTopic
+2,2026-04-28T23:45:41.153805+00:00,live,Digital art,BERTopic
