@@ -139,7 +139,7 @@ Canonical topic definitions now live in `config/topics.csv` instead of a hard-co
 - Use `*` in `reddit_subreddits` if you want a broader sitewide Reddit search.
 - If the CSV is missing, the project falls back to the original starter topics.
 
-## Suggested Capstone Talking Points
+## Talking Points
 
 - Cross-platform trend detection matters because a topic can behave differently in news, entertainment, and communities.
 - Topic consistency matters, so each source is mapped back to the same canonical topic names.
@@ -147,7 +147,7 @@ Canonical topic definitions now live in `config/topics.csv` instead of a hard-co
 - Novelty helps separate established trends from emerging opportunities.
 - Demo mode keeps the project reproducible even when API rate limits or credentials become a problem.
 
-## Next Fast Wins
+## Next Steps
 
 - Continue polishing the Streamlit dashboard visuals and storytelling flow.
 - Export the final score table directly into your slide deck or report.
